@@ -30,7 +30,7 @@ Projetos em destaque
 
 Aqui estão alguns projetos que desenvolvi:
 
-🌐 QikWii - Plataforma inovadora para gestão de tarefas e automação de processos
+🌐 [QikWii](https://github.com/seu-usuario/qikwii) - Plataforma inovadora para gestão de tarefas e automação de processos
 
 🛠️ API de Autenticação - Implementação segura de autenticação com JWT e OAuth
 
