@@ -1,46 +1,82 @@
-Olá! Eu sou o Gustavo 👋
+# 👋 Hi, I'm Gustavo Hemckmeier
 
-Bem-vindo ao meu perfil do GitHub! Aqui você encontrará projetos relacionados ao meu aprendizado e experiência como desenvolvedor.
+💻 Full Stack Software Developer  
+📍 Brazil  
+📧 gustavo@hemckmeier.com.br  
+🔗 https://github.com/gustavoohemckmeier  
 
-Sobre mim
+---
 
-👨‍💻 Desenvolvedor de Software
+## 🚀 About Me
 
-🎓 Formado em Análise e Desenvolvimento de Sistemas
+I'm a Full Stack Developer passionate about building scalable, efficient, and user-friendly applications.
 
-💡 Apaixonado por tecnologia, arquitetura de software e soluções escaláveis
+I enjoy working across both web and mobile development, always focusing on clean architecture, performance, and maintainability.
 
-🌐 Interessado em trabalhar no exterior e aprimorar meu inglês
+---
 
-📚 Atualmente estudando arquitetura de desenvolvimento e melhores práticas em sistemas
+## 🛠️ Tech Stack
 
-Tecnologias & Ferramentas
+**Frontend:**  
+React.js • Flutter • HTML • CSS • JavaScript  
 
-💻 Linguagens: Java, JavaScript, TypeScript, Dart
+**Backend:**  
+Node.js (NestJS) • REST APIs • SOAP  
 
-🛠️ Frameworks & Bibliotecas: Spring Boot, React, Flutter, Node.js
+**Databases:**  
+MongoDB • MySQL • PostgreSQL  
 
-📁 Banco de Dados: MongoDB, PostgreSQL, MySQL
+**Tools:**  
+Docker • Git • Firebase • RabbitMQ • Linux  
 
-🔧 Ferramentas & DevOps: Docker, Git, GitHub Actions, Jira
+---
 
-🎨 UI/UX: Tailwind CSS, Material UI, Font Awesome
+## 📱 Mobile Development
 
-Projetos em destaque
+- Cross-platform apps with Flutter  
+- Performance-focused development  
+- API integrations & authentication  
+- Offline-first approach  
 
-Aqui estão alguns projetos que desenvolvi:
+---
 
-🌐 [QikWii](https://github.com/seu-usuario/qikwii) - Plataforma inovadora para gestão de tarefas e automação de processos
+## 🌐 Web Development
 
-🛠️ API de Autenticação - Implementação segura de autenticação com JWT e OAuth
+- Modern UI with React  
+- Backend services with Node.js  
+- System integrations  
+- Scalable architecture  
 
-🌟 Dashboard React - Interface intuitiva para visualização de dados em tempo real
+---
 
-Como me encontrar
+## 📌 Current Focus
 
-📧 Email: gustavo@email.com
+- Software architecture  
+- Performance optimization  
+- DevOps fundamentals  
+- Building better fullstack systems  
 
-🌍 LinkedIn: linkedin.com/in/gustavo
+---
 
-💻 Portfólio: gustavo.dev
+## ⚡ A Bit More About Me
 
+- 🏋️ I enjoy going to the gym in my free time  
+- 💻 I like exploring new technologies and tools  
+- 🚀 Always looking to improve and learn something new  
+
+---
+
+## 📈 GitHub Stats
+
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoohemckmeier&show_icons=true&theme=radical)
+
+---
+
+## 🤝 Let's Connect
+
+- 📧 Email: gustavo@hemckmeier.com.br  
+- 💼 LinkedIn: [Gustavo Hemckmeier](https://www.linkedin.com/in/gustavo-hemckmeier/)  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Hemckmeier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-hemckmeier/)
+
+⭐ Open to new opportunities and collaborations.
