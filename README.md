@@ -2,9 +2,7 @@
 
 💻 Full Stack Software Developer  
 📍 Brazil  
-📧 gustavo@hemckmeier.com.br  
-🔗 https://github.com/gustavoohemckmeier  
-
+📧 gustavo@hemckmeier.com.br
 ---
 
 ## 🚀 About Me
@@ -66,17 +64,9 @@ Docker • Git • Firebase • RabbitMQ • Linux
 
 ---
 
-## 📈 GitHub Stats
-
-![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavoohemckmeier&show_icons=true&theme=radical)
-
----
-
 ## 🤝 Let's Connect
 
 - 📧 Email: gustavo@hemckmeier.com.br  
 - 💼 LinkedIn: [Gustavo Hemckmeier](https://www.linkedin.com/in/gustavo-hemckmeier/)  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo%20Hemckmeier-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-hemckmeier/)
 
 ⭐ Open to new opportunities and collaborations.
